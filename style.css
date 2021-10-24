@@ -1,0 +1,71 @@
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: xx-large;
+  text-align: center;
+  color: white;
+}
+
+h2,
+h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  max-width: 850px;
+  max-height: 850px;
+  width: auto;
+  height: auto;
+  padding: 3em;
+}
+
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-indent: 1cm;
+  margin-left: 10px;
+  margin-right: 6px;
+  color: white;
+}
+
+body {
+  background-color: #363636;
+}
+
+li {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  color: white;
+}
+
+.container2 {
+  max-width: 850px;
+  max-height: 850px;
+  width: auto;
+  height: auto;
+  padding: 3em;
+}
+
+.container3 {
+  max-width: 850px;
+  max-height: 850px;
+  width: auto;
+  height: auto;
+  padding: 3em;
+}
+
+a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.video {
+  margin-left: 350px;
+}
